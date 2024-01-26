@@ -1,4 +1,4 @@
-Hello everyone! 👋 I'm Bernice, a Bioinformatic student who studied in UTM. Welcome to my GitHub profile!
+Hello everyone! 👋 I'm Bernice, a Bioinformatics student who studied in UTM. Welcome to my GitHub profile!
 
 🎓About Me📚
 
